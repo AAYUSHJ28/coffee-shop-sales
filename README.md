@@ -4,30 +4,44 @@ Overview:
 The Coffee Shop Sales Dashboard is an interactive Excel-based data visualization tool designed to provide a comprehensive view of coffee shop sales, customer footfall, and product performance. The dashboard uses charts, graphs, and key performance indicators (KPIs) to analyze and display data trends in an easy-to-understand format.
 
 Features
+
 Key Metrics
+
 Total Sales: Displays the total revenue generated.   
-Total Footfall: Shows the total number of customers.  
+
+Total Footfall: Shows the total number of customers.
+
 Average Bill/Person: Indicates the average spending per customer.
+
 Average Orders/Person: Provides insights into the average number of items ordered per customer.
+
 Interactive Filters
+
 Month Filter: Select specific months (e.g., January to June) to analyze monthly trends.
+
 Day Filter: Analyze data for specific days of the week (e.g., Sunday to Saturday).
 
 Visualizations
+
 Quantity Ordered vs. Hours
+
 A line chart displaying order quantities based on operating hours.
 Helps identify peak order times during the day.
 
 Category Distribution
+
 A pie chart visualizing sales percentage by product categories like Coffee, Tea, Bakery, etc.
 
 Size Distribution Based on Orders
+
 A pie chart showing order sizes categorized into Large, Regular, Small, and Not Defined.
 
 Footfall and Sales Over Store Locations
+
 A bar chart comparing customer footfall and total sales for various store locations like Astoria, Hell's Kitchen, and Lower Manhattan.
 
 Top 5 Products Based on Sales
+
 A bar chart showcasing the top-performing products in terms of revenue.
 Examples: Barista Espresso, Brewed Black Tea, Gourmet Brewed Coffee, etc.
 
