@@ -21,11 +21,14 @@ Month Filter: Select specific months (e.g., January to June) to analyze monthly 
 
 Day Filter: Analyze data for specific days of the week (e.g., Sunday to Saturday).
 
+
+
 Visualizations
 
 Quantity Ordered vs. Hours
 
 A line chart displaying order quantities based on operating hours.
+
 Helps identify peak order times during the day.
 
 Category Distribution
@@ -43,28 +46,50 @@ A bar chart comparing customer footfall and total sales for various store locati
 Top 5 Products Based on Sales
 
 A bar chart showcasing the top-performing products in terms of revenue.
+
 Examples: Barista Espresso, Brewed Black Tea, Gourmet Brewed Coffee, etc.
 
 Orders Based on Week
+
 A bar chart showing the footfall trend over different days of the week.
 
+
+
 Benefits
+
 Performance Tracking: Quickly identify sales trends, popular products, and peak hours.
+
 Store Comparison: Analyze and compare performance across multiple store locations.
+
 Customer Behavior Insights: Understand customer preferences based on product categories and average order values.
+
 Decision Support: Support data-driven decisions to optimize store operations and product offerings.
 
-Usage Instructions
+
+
+Usage Instructions:
+
 Open the Excel file containing the dashboard.
+
 Use the Month Name and Day Name filters to dynamically analyze data for specific time periods.
+
 Interact with visualizations to gather insights, such as:
+
   Identifying peak sales hours.
+  
   Recognizing the top-performing products and locations.
+  
 Review KPIs at the top of the dashboard for a quick summary of overall performance.
 
-Tools Used
+
+
+Tools Used:
+
 Microsoft Excel
+
 Features utilized: Pivot Tables, Pivot Charts, Data Slicers, Conditional Formatting,DAX and Dynamic Visualizations.
+
+
 
 Screenshots
 Here is a snapshot of the dashboard for reference:
