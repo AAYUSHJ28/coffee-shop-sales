@@ -5,8 +5,8 @@ The Coffee Shop Sales Dashboard is an interactive Excel-based data visualization
 
 Features
 Key Metrics
-Total Sales: Displays the total revenue generated.
-Total Footfall: Shows the total number of customers.
+Total Sales: Displays the total revenue generated.   
+Total Footfall: Shows the total number of customers.  
 Average Bill/Person: Indicates the average spending per customer.
 Average Orders/Person: Provides insights into the average number of items ordered per customer.
 Interactive Filters
