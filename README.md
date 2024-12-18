@@ -3,9 +3,9 @@
 Overview:
 The Coffee Shop Sales Dashboard is an interactive Excel-based data visualization tool designed to provide a comprehensive view of coffee shop sales, customer footfall, and product performance. The dashboard uses charts, graphs, and key performance indicators (KPIs) to analyze and display data trends in an easy-to-understand format.
 
-Features
+## Features
 
-Key Metrics
+### Key Metrics
 
 Total Sales: Displays the total revenue generated.   
 
@@ -23,39 +23,39 @@ Day Filter: Analyze data for specific days of the week (e.g., Sunday to Saturday
 
 
 
-Visualizations
+## Visualizations
 
-Quantity Ordered vs. Hours
+### Quantity Ordered vs. Hours
 
 A line chart displaying order quantities based on operating hours.
 
 Helps identify peak order times during the day.
 
-Category Distribution
+### Category Distribution
 
 A pie chart visualizing sales percentage by product categories like Coffee, Tea, Bakery, etc.
 
-Size Distribution Based on Orders
+### Size Distribution Based on Orders
 
 A pie chart showing order sizes categorized into Large, Regular, Small, and Not Defined.
 
-Footfall and Sales Over Store Locations
+### Footfall and Sales Over Store Locations
 
 A bar chart comparing customer footfall and total sales for various store locations like Astoria, Hell's Kitchen, and Lower Manhattan.
 
-Top 5 Products Based on Sales
+### Top 5 Products Based on Sales
 
 A bar chart showcasing the top-performing products in terms of revenue.
 
 Examples: Barista Espresso, Brewed Black Tea, Gourmet Brewed Coffee, etc.
 
-Orders Based on Week
+### Orders Based on Week
 
 A bar chart showing the footfall trend over different days of the week.
 
 
 
-Benefits
+## Benefits
 
 Performance Tracking: Quickly identify sales trends, popular products, and peak hours.
 
@@ -67,7 +67,7 @@ Decision Support: Support data-driven decisions to optimize store operations and
 
 
 
-Usage Instructions:
+## Usage Instructions:
 
 Open the Excel file containing the dashboard.
 
@@ -83,7 +83,7 @@ Review KPIs at the top of the dashboard for a quick summary of overall performan
 
 
 
-Tools Used:
+## Tools Used:
 
 Microsoft Excel
 
@@ -91,7 +91,7 @@ Features utilized: Pivot Tables, Pivot Charts, Data Slicers, Conditional Formatt
 
 
 
-Screenshots
+## Screenshots
 Here is a snapshot of the dashboard for reference:
 
 ![Screenshot 2024-12-17 162123](https://github.com/user-attachments/assets/aabd1082-836a-45aa-ba6b-3ba610daf33f)
